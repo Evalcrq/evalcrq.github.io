@@ -1,0 +1,25 @@
+.grille3{
+   height: 20px;
+   display: grid;
+   margin-left: 20px auto 0;
+   flex-wrap: wrap;
+   justify-content:center;
+grid-gap: 10px;
+}
+
+.grille3 img{
+    width: 400pxs;
+   display: inline-block;
+   margin-left: 40px;
+   padding: 10px;
+  
+}
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif-
+}
